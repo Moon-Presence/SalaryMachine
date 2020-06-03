@@ -1,0 +1,11 @@
+c:\users\dns\documents\visual studio 2015\Projects\SalaryMachine\SalaryMachine\bin\Debug\SalaryMachine.exe.config
+c:\users\dns\documents\visual studio 2015\Projects\SalaryMachine\SalaryMachine\bin\Debug\SalaryMachine.exe
+c:\users\dns\documents\visual studio 2015\Projects\SalaryMachine\SalaryMachine\bin\Debug\SalaryMachine.pdb
+c:\users\dns\documents\visual studio 2015\Projects\SalaryMachine\SalaryMachine\obj\Debug\SalaryMachine.csprojResolveAssemblyReference.cache
+c:\users\dns\documents\visual studio 2015\Projects\SalaryMachine\SalaryMachine\obj\Debug\SalaryMachine.Properties.Resources.resources
+c:\users\dns\documents\visual studio 2015\Projects\SalaryMachine\SalaryMachine\obj\Debug\SalaryMachine.csproj.GenerateResource.Cache
+c:\users\dns\documents\visual studio 2015\Projects\SalaryMachine\SalaryMachine\obj\Debug\SalaryMachine.exe
+c:\users\dns\documents\visual studio 2015\Projects\SalaryMachine\SalaryMachine\obj\Debug\SalaryMachine.pdb
+c:\users\dns\documents\visual studio 2015\Projects\SalaryMachine\SalaryMachine\bin\Debug\BL.dll
+c:\users\dns\documents\visual studio 2015\Projects\SalaryMachine\SalaryMachine\bin\Debug\BL.pdb
+c:\users\dns\documents\visual studio 2015\Projects\SalaryMachine\SalaryMachine\obj\Debug\SalaryMachine.Form1.resources
